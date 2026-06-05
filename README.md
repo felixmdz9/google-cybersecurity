@@ -4,5 +4,5 @@ Welcome to my cybersecurity portfolio! This repository contains a collection of 
 ## Portfolio Projects & Labs 📁
 
 ### Security Audit 📝 
-*   [Controls & Compliance Checklist](projects/Controls and Compliance Checklist.pdf)
+*   [Controls & Compliance Checklist](projects/Controls%20and%20Compliance%20Checklist.pdf)
 
